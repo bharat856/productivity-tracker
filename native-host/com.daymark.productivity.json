@@ -1,0 +1,7 @@
+{
+  "name": "com.daymark.productivity",
+  "description": "Daymark local website tracking host",
+  "path": "__DAYMARK_HOST_PATH__",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://__DAYMARK_EXTENSION_ID__/"]
+}
